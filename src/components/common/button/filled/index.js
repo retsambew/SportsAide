@@ -1,4 +1,5 @@
 import React from 'react'
+import '../animation.scss'
 
 const FilledButton = (props) => {
   return (
@@ -9,7 +10,8 @@ const FilledButton = (props) => {
         background: props.background??'rgba(24, 160, 251, 1)',
         border: 'none',
         borderRadius: props.radius??'0.4rem',
-        fontSize: '1.4rem',
+        fontSize: props.size??'1.4rem',
+        fontFamily: 'Montserrat',
         cursor: 'pointer',
      }}
      onClick={props.onClick}

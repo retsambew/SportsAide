@@ -5,6 +5,7 @@ import JoinUS from './joinUs'
 import tennis from '../../assets/sports/tennis.svg'
 import cricket from '../../assets/sports/cricket.svg'
 import ImageInfoBar from '../common/imageInfoBar'
+import Hero from './hero'
 
 const Home = () => {
   const content={
@@ -23,6 +24,7 @@ const Home = () => {
   }
   return (
     <div>
+      <Hero/>
       <Featured/>
       <ImageInfoBar {...content.tennis}/>
       <ImageInfoBar {...content.cricket}/>

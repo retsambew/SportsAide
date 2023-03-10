@@ -1,4 +1,5 @@
 import React from 'react'
+import '../animation.scss'
 
 const HollowButton = (props) => {
   return (
@@ -9,7 +10,8 @@ const HollowButton = (props) => {
         background: props.background??'white',
         border: '0.1rem solid rgba(24, 160, 251, 1)',
         borderRadius: props.radius??'0.4rem',
-        fontSize: '1.4rem',
+        fontSize: props.size??'1.4rem',
+        fontFamily: 'Montserrat',
         cursor: 'pointer',
      }}
      onClick={props.onClick}

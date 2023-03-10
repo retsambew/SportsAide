@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 import FilledButton from '../../common/button/filled'
 import HollowButton from '../../common/button/hollow'
 import './index.scss'
@@ -9,10 +10,10 @@ const Navbar = () => {
       <div className='navInfo'>
         <h1 className='brand'>SportAide</h1>
         <div className='links'>
-          <h2 className='link'>Featured</h2>
-          <h2 className='link'>Sports Categories</h2>
-          <h2 className='link'>Events</h2>
-          <h2 className='link'>Support</h2>
+          <Link className='link' to='/'>Featured</Link>
+          <Link className='link' to='/events'>Sports Categories</Link>
+          <Link className='link' to='/events'>Events</Link>
+          <Link className='link' to='/'>Support</Link>
         </div>
       </div>
       <div className='navUser'>

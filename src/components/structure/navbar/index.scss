@@ -20,10 +20,15 @@
         .links{
             display: flex;
             gap: 3rem;
-            color: rgba(24, 160, 251, 1);
             .link{
+                color: rgba(24, 160, 251, 1);
                 font-weight: 500;
                 font-size: 1.4rem;
+                text-decoration: none;
+            }
+            .link:hover{
+                transition: 0.3s ease-in-out;
+                transform: scale(1.1);
             }
         }
     }
