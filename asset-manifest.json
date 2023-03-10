@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/SportsAide/static/css/main.21c9c620.css",
-    "main.js": "/SportsAide/static/js/main.31351a64.js",
+    "main.css": "/SportsAide/static/css/main.814b95ef.css",
+    "main.js": "/SportsAide/static/js/main.a9e6e922.js",
+    "static/media/heroBG.mp4": "/SportsAide/static/media/heroBG.0f33cbcb125808a41538.mp4",
+    "static/media/hockeyPoster.svg": "/SportsAide/static/media/hockeyPoster.e087d27a55d3de31517146b31197e728.svg",
+    "static/media/cricketPoster.svg": "/SportsAide/static/media/cricketPoster.288636ce528d02b437e9800046e15534.svg",
     "static/media/cricket.svg": "/SportsAide/static/media/cricket.8582ca7243a6b5b9f214dca122d6a889.svg",
     "static/media/people.svg": "/SportsAide/static/media/people.13d464299417bb11ab1ec00c16160392.svg",
     "static/media/tennis.svg": "/SportsAide/static/media/tennis.6e9ed0501c191d0a5f466dc07a1efaf3.svg",
+    "static/media/eventJoinBG.svg": "/SportsAide/static/media/eventJoinBG.962c805674ecc0d5d055adb2af75eb8d.svg",
     "index.html": "/SportsAide/index.html",
-    "main.21c9c620.css.map": "/SportsAide/static/css/main.21c9c620.css.map",
-    "main.31351a64.js.map": "/SportsAide/static/js/main.31351a64.js.map"
+    "main.814b95ef.css.map": "/SportsAide/static/css/main.814b95ef.css.map",
+    "main.a9e6e922.js.map": "/SportsAide/static/js/main.a9e6e922.js.map"
   },
   "entrypoints": [
-    "static/css/main.21c9c620.css",
-    "static/js/main.31351a64.js"
+    "static/css/main.814b95ef.css",
+    "static/js/main.a9e6e922.js"
   ]
 }
