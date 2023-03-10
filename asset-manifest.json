@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SportsAide/static/css/main.814b95ef.css",
-    "main.js": "/SportsAide/static/js/main.a9e6e922.js",
+    "main.js": "/SportsAide/static/js/main.0c15a7f3.js",
     "static/media/heroBG.mp4": "/SportsAide/static/media/heroBG.0f33cbcb125808a41538.mp4",
     "static/media/hockeyPoster.svg": "/SportsAide/static/media/hockeyPoster.e087d27a55d3de31517146b31197e728.svg",
     "static/media/cricketPoster.svg": "/SportsAide/static/media/cricketPoster.288636ce528d02b437e9800046e15534.svg",
@@ -11,10 +11,10 @@
     "static/media/eventJoinBG.svg": "/SportsAide/static/media/eventJoinBG.962c805674ecc0d5d055adb2af75eb8d.svg",
     "index.html": "/SportsAide/index.html",
     "main.814b95ef.css.map": "/SportsAide/static/css/main.814b95ef.css.map",
-    "main.a9e6e922.js.map": "/SportsAide/static/js/main.a9e6e922.js.map"
+    "main.0c15a7f3.js.map": "/SportsAide/static/js/main.0c15a7f3.js.map"
   },
   "entrypoints": [
     "static/css/main.814b95ef.css",
-    "static/js/main.a9e6e922.js"
+    "static/js/main.0c15a7f3.js"
   ]
 }
