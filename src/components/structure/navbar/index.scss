@@ -1,0 +1,53 @@
+.navbar{
+    position: fixed;
+    display: flex;
+    width: 100vw;
+    justify-content: space-between;
+    align-items: center;
+    top: 0;
+    background-color: rgba(255,255,255,0.97);
+    .navInfo{
+        padding: 2rem 3rem;
+        display: flex;
+        gap: 7rem;
+        align-items: center;
+        .brand{
+            font-family: 'Comfortaa';
+            font-weight: 400;
+            font-size: 2rem;
+        }
+
+        .links{
+            display: flex;
+            gap: 3rem;
+            color: rgba(24, 160, 251, 1);
+            .link{
+                font-weight: 500;
+                font-size: 1.4rem;
+            }
+        }
+    }
+
+    .navUser{
+        display: flex;
+        gap: 1.4rem;
+        padding-right: 3rem;
+        align-items: center;
+        .login{
+            color: rgba(24, 160, 251, 1);
+            border: 0.1rem solid rgba(24, 160, 251, 1);
+            padding: 0.6rem 2.6rem;
+            background: none;
+            border-radius: 0.4rem;
+            font-size: 1.4rem;
+        }
+        .register{
+            color: white;
+            padding: 0.7rem 2.6rem;
+            background: rgba(24, 160, 251, 1);
+            border: none;
+            border-radius: 0.4rem;
+            font-size: 1.4rem;
+        }
+    }
+}

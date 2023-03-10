@@ -1,0 +1,37 @@
+// Featured Styles
+
+.featuredSection{
+    margin: 8rem 6rem;
+    .featuredHeading{
+        font-size: 3.6rem;
+        font-style: normal;
+        font-weight: 400;
+        margin-bottom: 10rem;
+    }
+
+    .featuredCards{
+        display: grid;
+        grid-template-columns: auto auto;
+        gap: 6rem;
+        .featuredCard{
+            display: grid;
+            gap: 2rem;
+            h3{
+                font-size: 2rem;
+            }
+            p{
+                font-size: 1.5rem;
+                font-weight: 400;
+            }
+            button{
+                width: fit-content;
+                font-size: 1.4rem;
+                padding: 0.8rem 1.6rem;
+                color: rgba(24, 160, 251, 1);
+                background: none;
+                border: 0.1rem solid rgba(24, 160, 251, 1);
+                cursor: pointer;
+            }
+        }
+    }
+}

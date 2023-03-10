@@ -1,0 +1,26 @@
+.imageInfoBarSection{
+    display: flex;
+    padding: 7rem;
+    gap: 6rem;
+    img{
+        width: 33vw;
+        height: 21vw;
+        object-fit: cover;
+    }
+    .iibInfo{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 2rem;
+        
+        h2{
+            font-weight: 700;
+            font-size: 2.4rem;
+        }
+        p{
+            font-weight: 400;
+            font-size: 1.6rem;
+            max-width: 90%;
+        }
+    }
+}
