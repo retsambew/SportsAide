@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21c9c620.css",
+    "main.js": "/static/js/main.34204c18.js",
+    "static/media/cricket.svg": "/static/media/cricket.8582ca7243a6b5b9f214dca122d6a889.svg",
+    "static/media/people.svg": "/static/media/people.13d464299417bb11ab1ec00c16160392.svg",
+    "static/media/tennis.svg": "/static/media/tennis.6e9ed0501c191d0a5f466dc07a1efaf3.svg",
+    "index.html": "/index.html",
+    "main.21c9c620.css.map": "/static/css/main.21c9c620.css.map",
+    "main.34204c18.js.map": "/static/js/main.34204c18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21c9c620.css",
+    "static/js/main.34204c18.js"
+  ]
+}
